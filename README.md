@@ -1,2 +1,2 @@
 # leetcode-python
-Random leetcode questions in Python!
+Random LeetCode questions in Python!
